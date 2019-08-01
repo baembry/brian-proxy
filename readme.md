@@ -3,9 +3,10 @@
 _A partial clone of the Home Depot website, built with microservice architecture_
 
 <img src="readme/assets/Screenshot 2019-07-20 10.21.55.png">
-<iframe src="https://giphy.com/embed/MdRGbMETJybOQKI17G" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MdRGbMETJybOQKI17G">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/j5EX0HUj8UtHBRR3sb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j5EX0HUj8UtHBRR3sb">via GIPHY</a></p>
+![gif](https://media.giphy.com/media/MdRGbMETJybOQKI17G/giphy.gif)
+
+![gif](https://media.giphy.com/media/j5EX0HUj8UtHBRR3sb/giphy.gif)
 
 ## About
 
